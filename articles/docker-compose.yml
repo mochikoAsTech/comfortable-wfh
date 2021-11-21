@@ -1,0 +1,8 @@
+version: '3'
+services:
+  review:
+    image: vvakame/review:5.3
+    volumes:
+      - .:/confortable-wfh
+    build: .
+    working_dir: /confortable-wfh
