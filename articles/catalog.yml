@@ -4,7 +4,22 @@ PREDEF:
   - introduction.re
 
 CHAPS:
-  - article.re
+# 書斎編
+  - 01syosai.re
+# 私のデスク編
+  - 02wife.re
+# 夫のデスク編
+  - 03husband.re
+# 会議用個室編
+  - 04closet.re
+# おやつコーナー編
+  - 05oyatsu.re
+# もともとあったもの編
+  - 06motomoto.re
+# 導入されたが上位互換に置き換えられたもの編
+  - 07gokan.re
+# 番外編
+  - 08bangai.re
 
 POSTDEF:
 # あとがき
