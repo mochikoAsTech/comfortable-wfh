@@ -19,7 +19,7 @@
 
 Dellの31.5インチワイドモニター（S3221QS）は送料込みで51,678円でした。
 
-@<href>{https://www.amazon.co.jp/dp/B08HJ9XBM5}
+ * @<href>{https://www.amazon.co.jp/dp/B08HJ9XBM5}
 
 == デスクマウントアーム
 
@@ -27,14 +27,14 @@ Dellの31.5インチワイドモニター（S3221QS）は送料込みで51,678�
 
 ErgotronのLX デスクマウントアーム ホワイト（45-490-216）は14,080円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001003311720/}
+ * @<href>{https://www.yodobashi.com/product/100000001003311720/}
 
 == マウス
 
 ロジクール Logicool
 MX1700PG [MX Anywhere 3 コンパクト パフォーマンスマウス ペイルグレー]
 
-@<href>{https://k-tai.watch.impress.co.jp/docs/column/stapa/1287220.html}
+ * @<href>{https://k-tai.watch.impress.co.jp/docs/column/stapa/1287220.html}
 
 10,780円でした。
 
@@ -44,7 +44,7 @@ MX1700PG [MX Anywhere 3 コンパクト パフォーマンスマウス ペイル
 
 ELECOMのリストレスト付マウスパッド COMFY グレー（MP-095GY）は607円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001000802244/}
+ * @<href>{https://www.yodobashi.com/product/100000001000802244/}
 
 == キーボード
 
@@ -54,7 +54,7 @@ ELECOMのリストレスト付マウスパッド COMFY グレー（MP-095GY）�
 
 さらにWindowsでは、Microsoft謹製のCtrl2Cap v2.0入れて、左下のcapslockキーにctrl割り当てたのでもう何も怖くない。
 
-@<href>{https://loumo.jp/archives/25374}
+ * @<href>{https://loumo.jp/archives/25374}
 
 あとMacのキーボードを正として、Windows側のキー設定をMacに寄せる設定もしてみた。ATOKのキーカスタマイズで、「日本語入力OFF」はスペースキーの左側にある「無変換」キーを割り当てて、「日本語入力ON」にはスペースキーの右側にある「変換」キーを割り当てておく。そうすると、Windowsを使っているときの日本語入力と英語入力の切り替えさえもMacと同じになるので、もうほぼ混乱することはなくなる。
 
@@ -62,7 +62,7 @@ ELECOMのリストレスト付マウスパッド COMFY グレー（MP-095GY）�
 R2TLSA-JP3M-WH-EK [REALFORCE TKLfor Mac テンキーレスキーボード 日本語91キー配列 USB シルバー/白 昇華印字 ALL30g 静音/APC機能 赤ESCキーキャップセットモデル]
 33,300円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001005316896/}
+ * @<href>{https://www.yodobashi.com/product/100000001005316896/}
 
 == リストレスト
 
@@ -70,9 +70,9 @@ R2TLSA-JP3M-WH-EK [REALFORCE TKLfor Mac テンキーレスキーボード 日本
 
 FILCO Majestouch Wrist Rest "Macaron" 厚型17mm、Mサイズ、Rainy（MWR/17M-RA）は2,040円でした。
 
-@<href>{https://www.diatec.co.jp/products/det.php?prod_c=4000}
+ * @<href>{https://www.diatec.co.jp/products/det.php?prod_c=4000}
 
-@<href>{https://www.yodobashi.com/product/100000001004199030/}
+ * @<href>{https://www.yodobashi.com/product/100000001004199030/}
 
 == ノートパソコンスタンド（シルバー）
 
@@ -80,7 +80,7 @@ FILCO Majestouch Wrist Rest "Macaron" 厚型17mm、Mサイズ、Rainy（MWR/17M-
 
 ARCHISSのノートPC＆タブレット用アルミスタンド（AS-LUBM-SL）は5,580円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001004917940/}
+ * @<href>{https://www.yodobashi.com/product/100000001004917940/}
 
 == ドッキングステーション（2台目）
 
@@ -102,7 +102,7 @@ BenQのモニター掛け式ライト、WiT ScreenBar Plusは17,594円@<fn>{usd}
 
 //footnote[usd][購入当時は日本国内に在庫がなく、また送料を足しても米アマゾン（amazon.com）で買う方が安かったので152.22ドルで購入。]
 
-@<href>{https://www.benq.com/ja-jp/lighting/screenbar-lamp/screenbar-plus.html}
+ * @<href>{https://www.benq.com/ja-jp/lighting/screenbar-lamp/screenbar-plus.html}
 
 == ウェブカメラ
 
@@ -110,7 +110,7 @@ BenQのモニター掛け式ライト、WiT ScreenBar Plusは17,594円@<fn>{usd}
 
 ASUSのROG Eyeは9,908円でした。
 
-@<href>{https://rog.asus.com/jp/streaming-kits/rog-eye-model/}
+ * @<href>{https://rog.asus.com/jp/streaming-kits/rog-eye-model/}
 
 == AirPods（第2世代）
 
@@ -120,7 +120,7 @@ AirPodsがいいのは、自席で耳にAirPodsをはめて会議をしている
 
 AirPods （第2世代 エアーポッズ） with Charging Case ワイヤレスヘッドフォン [MV7N2J/A]
 
-@<href>{https://www.yodobashi.com/product/100000001004331234/}
+ * @<href>{https://www.yodobashi.com/product/100000001004331234/}
 
 == 電源タップ
 
@@ -128,7 +128,7 @@ AirPods （第2世代 エアーポッズ） with Charging Case ワイヤレス�
 
 Anker PowerPort Strip PD 6は4,290円でした。
 
-@<href>{https://www.ankerjapan.com/products/a9162}
+ * @<href>{https://www.ankerjapan.com/products/a9162}
 
 == リムーバブルウォールペーパー
 
@@ -140,7 +140,7 @@ Anker PowerPort Strip PD 6は4,290円でした。
 
 Francfrancのリムーバブルウォールペーパー（450mm x 2500mm）は、2,800円が5個で14,000円でした。
 
-@<href>{https://francfranc.com/products/1111070876903}
+ * @<href>{https://francfranc.com/products/1111070876903}
 
 == 壁掛けティッシュケース
 
@@ -148,7 +148,7 @@ ideacoの壁掛けティッシュケースWALLを壁に付けた。鼻をかむ�
 
 ホワイトとライトブルーが各2,530円で、合計5,060円でした。
 
-@<href>{http://www.ideaco-web.com/products/tissue_case/wall.html}
+ * @<href>{http://www.ideaco-web.com/products/tissue_case/wall.html}
 
 == フットマッサージャー
 
@@ -160,4 +160,4 @@ ideacoの壁掛けティッシュケースWALLを壁に付けた。鼻をかむ�
 
 TESCOMのフットマッサージャー（TF1100-C）は11,080円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001003259791/}
+ * @<href>{https://www.yodobashi.com/product/100000001003259791/}

@@ -17,7 +17,7 @@
 
 PHILIPSの43.4型スーパーウルトラワイド液晶ディスプレイ ブラック（439P9H1/11）は103,970円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001005254323/}
+ * @<href>{https://www.yodobashi.com/product/100000001005254323/}
 
 == デスクモニターアーム
 
@@ -25,7 +25,7 @@ PHILIPSの43.4型スーパーウルトラワイド液晶ディスプレイ ブ�
 
 ErgotronのHXデスクモニターアーム アルミニウム（45-475-026）は28,600円でした。
 
-@<href>{https://www.amazon.co.jp/dp/B01MXYN33U}
+ * @<href>{https://www.amazon.co.jp/dp/B01MXYN33U}
 
 == ワイヤレスヘッドセット
 
@@ -33,13 +33,13 @@ ErgotronのHXデスクモニターアーム アルミニウム（45-475-026）�
 
 PLANTRONICSの片耳Bluetooth ワイヤレスヘッドセット（VOYAGER5200NEW）は14,210円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001004249695/}
+ * @<href>{https://www.yodobashi.com/product/100000001004249695/}
 
 同時に購入したのが専用の充電ケース。この充電ケースがなくても片耳ヘッドセットの充電はできるけど、いちいちゴムの蓋を開けてケーブルを差し込まないといけないので割と面倒。充電ケースにしまうだけで充電されるので絶対にあった方がいい。
 
 PLANTRONICSのVoyager5200用充電ケース（204500-108）は4,700円なので、本体とあわせて18910円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001004210495/}
+ * @<href>{https://www.yodobashi.com/product/100000001004210495/}
 
 == ヘッドホン
 
@@ -51,7 +51,7 @@ PLANTRONICSのVoyager5200用充電ケース（204500-108）は4,700円なので�
 //footnote[buyandship][ある品物が特定の国でしか売っておらず、ネットで買えるけれど配送先はその国内のみ、どうにかして日本から買いたい！というときに使う「国際転送サービス」というものがある。事前に国際転送サービスを申し込んで対象の国の配送先住所を入手しておき、ネットショップで配送先をその住所にして品物を購入する。配送先住所（倉庫）に品物が届いたら、国際転送サービス会社が倉庫から日本まで転送してくれる、という流れである。]
 //footnote[spd][2,539シンガポールドル。本体価格なので、これには国際転送サービスの料金は含まない。]
 
-@<href>{https://en-us.sennheiser.com/hd-800-s-anniversary}
+ * @<href>{https://en-us.sennheiser.com/hd-800-s-anniversary}
 
 == ヘッドホンハンガー
 
@@ -61,7 +61,7 @@ PLANTRONICSのVoyager5200用充電ケース（204500-108）は4,700円なので�
 
 Geekriaの壁掛けフック ヘッドホンホルダーは1,199円でした。
 
-@<href>{https://www.amazon.co.jp/dp/B077JYHL4K}
+ * @<href>{https://www.amazon.co.jp/dp/B077JYHL4K}
 
 == カスタムキーボード
 
@@ -69,7 +69,7 @@ Geekriaの壁掛けフック ヘッドホンホルダーは1,199円でした。
 
 FILCOキーボード工房のキーボード、Majestouch BLACK 漆/赤金砂子塗り 黒軸 フルサイズ かななし（KOBO-UAKS02-ML-NFB2【830】）は22,800円でした。
 
-@<href>{https://www.diatec.co.jp/shop/kobo/ursakakin.php}
+ * @<href>{https://www.diatec.co.jp/shop/kobo/ursakakin.php}
 
 == キーボードカバー
 
@@ -77,7 +77,7 @@ FILCOキーボード工房のキーボード、Majestouch BLACK 漆/赤金砂子
 
 透明アクリル製キーボードラック 横幅480mm x 高さ70mm x 奥行170mm（MH01401004）は4,958円、送料が860円で、合計5,818円でした。
 
-@<href>{https://komonet.net/Products/Details/38}
+ * @<href>{https://komonet.net/Products/Details/38}
 
 == 座面ジェルクッション
 
@@ -85,7 +85,7 @@ FILCOキーボード工房のキーボード、Majestouch BLACK 漆/赤金砂子
 
 エクスジェル シーティングラボのザ・アウル 3Dハイエスト マイスターは、カバー付きで38,500円でした。
 
-@<href>{https://exgel.jp/jpn/product/the_owl_3d_highest_meister/}
+ * @<href>{https://exgel.jp/jpn/product/the_owl_3d_highest_meister/}
 
 == ホワイトボード
 
@@ -93,7 +93,7 @@ FILCOキーボード工房のキーボード、Majestouch BLACK 漆/赤金砂子
 
 パネル専用大型ホワイトボード（W620 x H620 x D66.5）はクーポンで10%値引きされて5,355円でした。
 
-@<href>{https://www.kagukuro.com/partition/accessories/big_board/}
+ * @<href>{https://www.kagukuro.com/partition/accessories/big_board/}
 
 == タッチスクリーンコントローラー
 
@@ -101,4 +101,4 @@ Spotifyを操作するときと、パソコンをスリープさせるときに�
 
 CORSAIRのタッチスクリーンコントローラー iCUE NEXUS Companion Touch Screen（CH-9910010-AP）は14,610円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001005751987/}
+ * @<href>{https://www.yodobashi.com/product/100000001005751987/}

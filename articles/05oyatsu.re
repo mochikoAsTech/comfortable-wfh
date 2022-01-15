@@ -51,7 +51,7 @@
 
 アイリスオーヤマ スチールウッドラック ブラウン 3段（SWR-4280）は、5,460円が2つで合計10,920円でした。
 
-@<href>{https://www.irisplaza.co.jp/index.php?KB=SHOSAI&SID=K251467F}
+ * @<href>{https://www.irisplaza.co.jp/index.php?KB=SHOSAI&SID=K251467F}
 
 == 紙コップホルダー
 
@@ -60,7 +60,7 @@
 CD-9BK [カップディスペンサー 9オンス用]
 2,940円
 
-@<href>{https://www.yodobashi.com/product/100000001003720628/}
+ * @<href>{https://www.yodobashi.com/product/100000001003720628/}
 
 == 紙コップ
 
@@ -76,7 +76,7 @@ CD-9BK [カップディスペンサー 9オンス用]
 
 STRIX DESIGNの木製マドラー 14cm 100個入り（SD-733）は272円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001006756973/}
+ * @<href>{https://www.yodobashi.com/product/100000001006756973/}
 
 == ポット
 
@@ -86,21 +86,24 @@ TIGERの電気ケトル、
 
 TIGERの電気ケトル、PCM-A080は3,870円でした。
 
-@<href>{http://www.yodobashi.com/ec/product/100000001004033437/index.html}
+ * @<href>{http://www.yodobashi.com/ec/product/100000001004033437/index.html}
 
 == 卓上ごみ箱
 
-お茶を淹れた後のティーバッグとか、コーヒーを混ぜた木のスティックをぽいっと捨てるときは、無印良品で売っていたミニサイズのポリプロピレンごみ箱を使っている。ごみ箱の中には、NEXTAの「洗面台でポイ」という自立型ゴミ袋を入れるとぴったりサイズ。
+お茶を淹れた後のティーバッグとか、コーヒーを混ぜた木のスティックをぽいっと捨てるときは、無印良品で売っていたミニサイズのポリプロピレンごみ箱を使っている。ごみ箱の中には、NEXTAの「洗面台でポイ」という自立型ゴミ袋を入れるとぴったりサイズ。（@<img>{trashbox}）
+
+//image[trashbox][使わないときは蓋もできる][scale=0.4]{
+//}
 
 無印良品のポリプロピレンごみ箱 角型 ミニ 約0.9Lは390円でした。
 
-@<href>{https://www.muji.com/jp/ja/store/cmdty/detail/4549337556904}
+ * @<href>{https://www.muji.com/jp/ja/store/cmdty/detail/4549337556904}
 
 NEXTAの卓上ゴミ袋、洗面台でポイは132円でした。@<fn>{nexta}
 
-//footnote[nexta][ちなみに同じNEXTAが出している「卓上でポイ」も使ってみたが、サイズや質感や枚数は同じで色が違うだけなので、好きな色の方を使うのがいいと思う。 @<href>{https://www.yodobashi.com/product/100000001003659323/}]
+ * @<href>{https://www.yodobashi.com/product/100000001003660443/}
 
-@<href>{https://www.yodobashi.com/product/100000001003660443/}
+//footnote[nexta][ちなみに同じNEXTAが出している「卓上でポイ」も使ってみたが、サイズや質感や枚数は同じで色が違うだけなので、好きな色の方を使うのがいいと思う。 @<href>{https://www.yodobashi.com/product/100000001003659323/}]
 
 == 明治 お菓子BOXアソート
 
@@ -108,7 +111,7 @@ NEXTAの卓上ゴミ袋、洗面台でポイは132円でした。@<fn>{nexta}
 
 明治 お菓子BOXアソート（3種アソート） 1箱（70袋入）は3,218円でした。
 
-@<href>{https://www.askul.co.jp/p/X782112/}
+ * @<href>{https://www.askul.co.jp/p/X782112/}
 
 == カルビー ポテトチップス小袋アソート
 
@@ -116,7 +119,7 @@ NEXTAの卓上ゴミ袋、洗面台でポイは132円でした。@<fn>{nexta}
 
 カルビー ポテトチップス小袋アソート（36袋入）は2,207円でした。
 
-@<href>{https://www.askul.co.jp/p/2020307/}
+ * @<href>{https://www.askul.co.jp/p/2020307/}
 
 == プラカップ
 
@@ -124,19 +127,19 @@ NEXTAの卓上ゴミ袋、洗面台でポイは132円でした。@<fn>{nexta}
 
 竹内産業 テイクアウト用プラカップ 420ml（14オンス） ロースタック 1袋（50個入）は605円でした。
 
-@<href>{https://www.askul.co.jp/p/E962820/}
+ * @<href>{https://www.askul.co.jp/p/E962820/}
 
 竹内産業 テイクアウト用プラカップ 510ml（17オンス） ロースタック 1袋（50個入）は620円でした。
 
-@<href>{https://www.askul.co.jp/p/E962821/}
+ * @<href>{https://www.askul.co.jp/p/E962821/}
 
 竹内産業 テイクアウト用プラカップ共通蓋（再生ペット25％配合） 1袋（100個入）は515円でした。
 
-@<href>{https://www.askul.co.jp/p/E962819/}
+ * @<href>{https://www.askul.co.jp/p/E962819/}
 
 曲がるストロー（裸） グリーン 1箱（500本入）は412円でした。
 
-@<href>{https://www.askul.co.jp/p/5408934/}
+ * @<href>{https://www.askul.co.jp/p/5408934/}
 
 == 無糖アイスティー
 
@@ -144,4 +147,4 @@ NEXTAの卓上ゴミ袋、洗面台でポイは132円でした。@<fn>{nexta}
 
 UCC上島珈琲 紅茶の時間 ストレートティー 無糖 930ml 1箱（12本入）は1,176円でした。
 
-@<href>{https://www.askul.co.jp/p/4585809/}
+ * @<href>{https://www.askul.co.jp/p/4585809/}

@@ -12,7 +12,7 @@
 	
 GECHICのモバイルモニター On-Lap（1306H）は34,810円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001005161060/}
+ * @<href>{https://www.yodobashi.com/product/100000001005161060/}
 
 == サーキュレーター
 
@@ -22,7 +22,7 @@ GECHICのモバイルモニター On-Lap（1306H）は34,810円でした。
 	
 アイリスオーヤマのコンパクトサーキュレーター 14畳 ホワイト（KCF-HM183-W）は4,060円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001004329007/}
+ * @<href>{https://www.yodobashi.com/product/100000001004329007/}
 
 == ノートパソコンスタンド
 
@@ -32,13 +32,13 @@ GECHICのモバイルモニター On-Lap（1306H）は34,810円でした。
 
 サンワダイレクト ノートパソコンスタンド 11型～15.6型対応 スチール製（100-CR012）は、2,080円でした。
 
-@<href>{https://www.amazon.co.jp/dp/B0798B637P}
+ * @<href>{https://www.amazon.co.jp/dp/B0798B637P}
 
 同時期、手当たり次第に試していたので、ELECOMのノートPC用クーラーも購入。こちらはファンが内蔵されていて、-10℃という触れ込みだったけれど、残念ながら冷えない、うるさい、邪魔くさい、という3拍子だったので、「別の場所で幸せになれよ」と人に差し上げた。
 
 ELECOMのノートPC用クーラー（静音・強冷タイプ） 12.1～14インチ対応 ブラックは2,410円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001002631754/}
+ * @<href>{https://www.yodobashi.com/product/100000001002631754/}
 
 == クロスタイプチェア
 
@@ -48,7 +48,7 @@ ELECOMのノートPC用クーラー（静音・強冷タイプ） 12.1～14イ�
 
 オカムラのクロスタイプチェア Techno Kids Chair Stella（8620BX-FHV1）は、25,000円でした。
 
-@<href>{http://interior.okamura.co.jp/study/stella/8620bx.html}
+ * @<href>{http://interior.okamura.co.jp/study/stella/8620bx.html}
 
 ただし我が家には猫がいる。猫もこのチェアが気に入ったらしく、大変気持ちよく爪とぎをしたため、会議用個室で基本的にドアを閉めていた頃は無事だったが、子供部屋に行ったら表面の布があっというまにボロボロになった。イス自体は良いものだったので、ラムースという猫が爪とぎできない特別な生地（人工皮革）で張り替えをお願いした。加工代や布代、往復の送料などで張り替えにかかった費用は46,651円でした。チェア本体より張り替えの方がずっと高いけど…その価値はあるので…！
 
@@ -58,7 +58,7 @@ ELECOMのノートPC用クーラー（静音・強冷タイプ） 12.1～14イ�
 
 KOIZUMIのLEDモードコントロールツインライト（ECL-546）は、15,741円でした。
 
-@<href>{https://kagu.koizumi.co.jp/product/detail/118/}
+ * @<href>{https://kagu.koizumi.co.jp/product/detail/118/}
 
 == カーテン
 
@@ -66,9 +66,9 @@ KOIZUMIのLEDモードコントロールツインライト（ECL-546）は、15,
 
 無印良品のポリエステル混綾織ノンプリーツカーテン ブルー 幅51～100 x 丈20～150cmは12,000円、スチールアジャスターポール 太 L シルバーは2,590円、合計で14,590円でした。
 
-@<href>{https://www.muji.com/jp/ja/store/cmdty/detail/4550002808624}
+ * @<href>{https://www.muji.com/jp/ja/store/cmdty/detail/4550002808624}
 
-@<href>{https://www.muji.com/jp/ja/store/cmdty/detail/4548076117100}
+ * @<href>{https://www.muji.com/jp/ja/store/cmdty/detail/4548076117100}
 
 == USBコンデンサーマイク（エントリーモデル）
 
@@ -82,7 +82,7 @@ KOIZUMIのLEDモードコントロールツインライト（ECL-546）は、15,
 	
 Logicoolの高品質USBコンデンサーマイク Blue Microphones Yeti Nano（BM300SG）は15,510円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001005276045/}
+ * @<href>{https://www.yodobashi.com/product/100000001005276045/}
 
 == マイクスタンドとポップガード
 
@@ -90,7 +90,7 @@ Logicoolの高品質USBコンデンサーマイク Blue Microphones Yeti Nano（
 
 AKEIEのマイクスタンドとポップガードのセットは、2,599円でした。
 
-@<href>{https://www.amazon.co.jp/dp/B07PGY3SYF}
+ * @<href>{https://www.amazon.co.jp/dp/B07PGY3SYF}
 
 == Type-Cハブ
 
@@ -110,9 +110,9 @@ CIRCULIGHT サーキュライト
 DSLS60CWH [サーキュライト ソケットシリーズ E26モデル 調色タイプ ホワイト]
 9,870円でした。
 
-@<href>{https://circulight.com/socket/}
+ * @<href>{https://circulight.com/socket/}
 
-@<href>{https://www.yodobashi.com/product/100000001005560537/}
+ * @<href>{https://www.yodobashi.com/product/100000001005560537/}
 
 == 足用湯たんぽ
 
@@ -148,7 +148,7 @@ Switchbotのリモートボタン（W0301700-GH）@<fn>{button}が1,980円、ス
 
 後々ブラインドが導入されたタイミングで廃棄。最初から完璧を目指さずに、少しずつ良くしていった、という過程を象徴するようなカラー不織布は741円でした。
 
-@<href>{https://www.amazon.co.jp/dp/B004X3800M}
+ * @<href>{https://www.amazon.co.jp/dp/B004X3800M}
 
 == ディスプレイアーム
 
@@ -156,10 +156,10 @@ Switchbotのリモートボタン（W0301700-GH）@<fn>{button}が1,980円、ス
 
 ErgotronのMX デスクマウントLCDアーム（45-214-026）は20,640円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001001061621/}
+ * @<href>{https://www.yodobashi.com/product/100000001001061621/}
 	
 サンワサプライ SANWA SUPPLY
 CR-LAPLT1 [モニターアーム補強プレート]
 1,590円でした。
 
-@<href>{https://www.yodobashi.com/product/100000001003130624/}
+ * @<href>{https://www.yodobashi.com/product/100000001003130624/}

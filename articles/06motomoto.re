@@ -10,11 +10,13 @@
 
 デスクはELITEの800DESKというシリーズ。強化ガラス製のパソコンデスクで、夫が806DESK、私が807DESK。（どちらもすでに廃盤となっている）
 
+ちなみにガラス製のデスクは、猫が乗った時に下から見ると「ふわっ」と「むにゅっ」を足して2で割らないモフモフの宇宙が広がっていてやばい。猫好きのみなさんにおかれましては、ぜひ一度お試しいただきたい。あれは宇宙だ。
+
 チェアはSteelcaseのPlease Chair。夫のチェアは2014年に、私のチェアも2018年に、ラムースという猫が爪とぎできない特別な生地（人工皮革）で張り替えをしていたので、それも幸いだった。加工代や布代、往復の送料などで張り替えにかかった費用は、夫のチェアが55,080円、私のチェアが61,776円でした。
 
 なお張り替えは、椅子の張り替えを専門にやっているAZUMAのReChairという工房に毎回お願いしている。
 
-@<href>{https://www.azuma-kako.co.jp/}
+ * @<href>{https://www.azuma-kako.co.jp/}
 
 == 机上ラック
 
@@ -28,7 +30,7 @@
 
 オフィスコムの机上ラック ハイタイプ 2段 幅1000mm ダーク（office_dl19）は、9,159円だったけど、クーポンで1,015円割引されて8,143円でした。
 
-@<href>{https://item.rakuten.co.jp/office-com/oflusrh-1000/}
+ * @<href>{https://item.rakuten.co.jp/office-com/oflusrh-1000/}
 
 == レーザープリンター
 
@@ -54,10 +56,10 @@ PIXUS TS8230 REDは、店頭で買ったのでもう金額は覚えていない�
 
 オーム電機のiShred ブラック（SHR-368BK）は、もう金額は覚えていない。
 
-@<href>{https://www.yodobashi.com/product/100000001001072841/}
+ * @<href>{https://www.yodobashi.com/product/100000001001072841/}
 
 == グラスサウンドスピーカー
 
 会議用個室が暗かったため、一時的に導入されたソニーのグラスサウンドスピーカー。ろうそくの炎みたいに揺らぎながら光り、音楽も流せるので、まるでカウンターバーで飲んでるみたいで雰囲気はよくなるけど会議には向かない。
 
-@<href>{https://www.sony.jp/active-speaker/products/LSPX-S3/}
+ * @<href>{https://www.sony.jp/active-speaker/products/LSPX-S3/}
