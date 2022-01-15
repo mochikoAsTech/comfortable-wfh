@@ -84,15 +84,18 @@ ELECOMのリストレスト付マウスパッド COMFY グレー（MP-095GY）�
 
 REALFORCE for Mac、ほんとに素晴らしい発明なのでMacとWindowsの両方を使っている民にはぜひお勧めしたい。@<chapref>{04closet}で後述しますが、会議室用に私はもう1台買いました。
 
-東プレのREALFORCE TKLfor Mac テンキーレスキーボード 日本語91キー配列 USB シルバー/白 昇華印字 ALL30g 静音/APC機能 赤ESCキーキャップセットモデル（R2TLSA-JP3M-WH-EK）は@<ttb>{33,300円}でした。
+東プレのREALFORCE TKL for Mac テンキーレスキーボード 日本語91キー配列 シルバー/白 静音/APC機能 （R2TLSA-JP3M-WH-EK）は@<ttb>{33,300円}でした。
 
  * @<href>{https://www.yodobashi.com/product/100000001005316896/}
 
 == リストレスト
 
-キーボードの手前にはFILCOのリストレストを置いている。最初は半信半疑だったけど、確かに前ほど手首が疲れないような気がする。
+キーボードの手前にはFILCOのリストレストを置いている。マウスパッドのリストレストと同じで、キーボードをたたく指先に対して、手首がガコンと落ちずに平行になっているから、確かに以前ほど手首が疲れないような気がする。ただ手首が当たる部分が汚れやすいので、定期的に交換した方がよさそう。全部で6色あるし、次は別の色にしてみよう。（@<img>{wristRest}）
 
-FILCO Majestouch Wrist Rest "Macaron" 厚型17mm、Mサイズ、Rainy（MWR/17M-RA）は2,040円でした。
+//image[wristRest][FILCOのロゴがゆがんでしまった][scale=0.6]{
+//}
+
+FILCO Majestouch Wrist Rest "Macaron" 厚型17mm Mサイズ Rainy（MWR/17M-RA）は@<ttb>{2,040円}でした。
 
  * @<href>{https://www.diatec.co.jp/products/det.php?prod_c=4000}
  * @<href>{https://www.yodobashi.com/product/100000001004199030/}
@@ -101,7 +104,7 @@ FILCO Majestouch Wrist Rest "Macaron" 厚型17mm、Mサイズ、Rainy（MWR/17M-
 
 キーボードを置くとなると、ノートパソコンが邪魔になる。ノートパソコンのディスプレイを、メインモニタと同じ高さにして、サブモニタみたいに使いたかったので、高さを調整できるノートパソコンスタンドを購入。
 
-ARCHISSのノートPC＆タブレット用アルミスタンド（AS-LUBM-SL）は5,580円でした。
+ARCHISSのノートPC＆タブレット用アルミスタンド（AS-LUBM-SL）は@<ttb>{5,580円}でした。
 
  * @<href>{https://www.yodobashi.com/product/100000001004917940/}
 
@@ -123,7 +126,7 @@ BenQのモニター掛け式ライト、WiT ScreenBar Plusは17,594円@<fn>{usd}
 
 会議用個室が埋まっていると、自席でミーティングに参加することもあるので、もともと会議用個室で使っていたASUSのウェブカメラ、ROG EYEをお下がりにしてきた。フルHD（1080p）で60fps。
 
-ASUSのROG Eyeは9,908円でした。
+ASUSのROG Eyeは@<ttb>{9,908円}でした。
 
  * @<href>{https://rog.asus.com/jp/streaming-kits/rog-eye-model/}
 
@@ -133,7 +136,7 @@ ASUSのROG Eyeは9,908円でした。
 
 AirPodsがいいのは、自席で耳にAirPodsをはめて会議をしているときは、スピーカーもマイクもAirPodsで、途中から会議用個室へ移動したら、スピーカーはAirPodsのままでマイクは会議用個室のYeti X、というように、場所を移動しても切れ目なく使えるところ。ケーブル付きのイヤホンも、ヘッドホンも、1時間の会議で装着していると疲れて頭痛がしてきたけど、AirPodsなら軽いのでそういうこともない。
 
-AirPods （第2世代 エアーポッズ） with Charging Case ワイヤレスヘッドフォン [MV7N2J/A]
+AirPods（第2世代） with Charging Case （MV7N2J/A）は@<ttb>{16,800円}でした。
 
  * @<href>{https://www.yodobashi.com/product/100000001004331234/}
 
@@ -141,7 +144,7 @@ AirPods （第2世代 エアーポッズ） with Charging Case ワイヤレス�
 
 電源の口は多ければ多いほどいい。足りないよりは多い方が絶対いい。なんとこの電源タップには、コンセント差込口が6つ、USBのType-Aポートが2つ、Type-Cポートが1つ付いている。最大で9つの機器を同時に繋げられるので、スマホ2台とAirPodsとNintendo Switch Liteを充電しつつ、モニタとライトとMac miniとVAIOとType-Cハブとフットマッサージャーの電源も取れるのだ。
 
-Anker PowerPort Strip PD 6は4,290円でした。
+Anker PowerPort Strip PD 6は@<ttb>{4,290円}でした。
 
  * @<href>{https://www.ankerjapan.com/products/a9162}
 
@@ -153,15 +156,18 @@ Anker PowerPort Strip PD 6は4,290円でした。
 
 加湿器をつけて湿度が上がると、場所によってちょっと浮いてくるところもあるけど、剥がれたりすることはない。自席で会議に参加するときに、バーチャル背景を設定しなくても、デフォルトで背景が華やかになったのでまあまあ気に入っている。
 
-Francfrancのリムーバブルウォールペーパー（450mm x 2500mm）は、2,800円が5個で14,000円でした。
+Francfrancのリムーバブルウォールペーパー（450mm x 2500mm）は、2,800円が5個で@<ttb>{14,000円}でした。
 
  * @<href>{https://francfranc.com/products/1111070876903}
 
 == 壁掛けティッシュケース
 
-ideacoの壁掛けティッシュケースWALLを壁に付けた。鼻をかむときはやわらかいティッシュがいいし、眼鏡を拭くときは普通のティッシュがいいので2種類。
+曲面ディスプレイの横に空きスペースがあったので、ideacoの壁掛けティッシュケースWALLを取り付けた。鼻をかむときはやわらかいティッシュがいいし、眼鏡を拭くときは普通のティッシュがいいので、ライトブルーとホワイトの2種類を縦に並べて両面テープで取り付け。ケースの上に少しだけスペースがあったので、なんとなくたぬきちを置いてみた。今日もたぬきちは「なんでボクだけこんなところにいるんだなも？」と暗い目をしている。（@<img>{tissue}）
 
-ホワイトとライトブルーが各2,530円で、合計5,060円でした。
+//image[tissue][ライトブルーが上、ホワイトが下][scale=0.6]{
+//}
+
+ホワイトとライトブルーが各2,530円で、合計@<ttb>{5,060円}でした。
 
  * @<href>{http://www.ideaco-web.com/products/tissue_case/wall.html}
 
@@ -173,7 +179,7 @@ ideacoの壁掛けティッシュケースWALLを壁に付けた。鼻をかむ�
 
 特に冬場、足が冷たいときに使うと、血行がよくなるのかうっすら汗をかくくらいまで体温が上がる。床に座って使うとふくらはぎも揉めるらしいが、もっぱら椅子に座ったまま足裏モードで使っている。
 
-TESCOMのフットマッサージャー（TF1100-C）は11,080円でした。
+TESCOMのフットマッサージャー（TF1100-C）は@<ttb>{11,080円}でした。
 
  * @<href>{https://www.yodobashi.com/product/100000001003259791/}
 

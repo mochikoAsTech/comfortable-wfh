@@ -18,7 +18,7 @@
 
 23型のディスプレイ2枚横並びから、曲面ディスプレイへの移行はまったく違和感がなかったとのこと。「広いは正義！」だそうだ。
 
-PHILIPSの43.4型スーパーウルトラワイド液晶ディスプレイ ブラック（439P9H1/11）は103,970円でした。
+PHILIPSの43.4型スーパーウルトラワイド液晶ディスプレイ ブラック（439P9H1/11）は@<ttb>{103,970円}でした。
 
  * @<href>{https://www.yodobashi.com/product/100000001005254323/}
 
@@ -26,7 +26,7 @@ PHILIPSの43.4型スーパーウルトラワイド液晶ディスプレイ ブ�
 
 はちゃめちゃでかい曲面ディスプレイを支えるのは、Ergotronのデスクモニターアーム。曲面ディスプレイは本体だけで10kgを超えるため、使えるアームがそもそも限られている。当初は同じErgotronの別のアームを使っていたけれど、そちらは限界まで高くしても目線より低く、首が疲れやすかったのでこちらに交換。
 
-ErgotronのHXデスクモニターアーム アルミニウム（45-475-026）は28,600円でした。
+ErgotronのHXデスクモニターアーム アルミニウム（45-475-026）は@<ttb>{28,600円}でした。
 
  * @<href>{https://www.amazon.co.jp/dp/B01MXYN33U}
 
@@ -34,13 +34,13 @@ ErgotronのHXデスクモニターアーム アルミニウム（45-475-026）�
 
 軽めのミーティングで使用しているのがPLANTRONICSの片耳ヘッドセット。疲れにくいし、片耳だけなので宅配便のインターホンも聞き逃さない。当初はJABRAの片耳ヘッドセットを使っていたが、電池の持ちが悪く、1時間毎に充電が必要だったため嫌気がさして買い換え。6時間くらいぶっ通しでつかえるのでストレスがない。
 
-PLANTRONICSの片耳Bluetooth ワイヤレスヘッドセット（VOYAGER5200NEW）は14,210円でした。
+PLANTRONICSの片耳Bluetooth ワイヤレスヘッドセット（VOYAGER5200NEW）は@<ttb>{14,210円}でした。
 
  * @<href>{https://www.yodobashi.com/product/100000001004249695/}
 
 同時に購入したのが専用の充電ケース。この充電ケースがなくても片耳ヘッドセットの充電はできるけど、いちいちゴムの蓋を開けてケーブルを差し込まないといけないので割と面倒。充電ケースにしまうだけで充電されるので絶対にあった方がいい。
 
-PLANTRONICSのVoyager5200用充電ケース（204500-108）は4,700円なので、本体とあわせて18910円でした。
+PLANTRONICSのVoyager5200用充電ケース（204500-108）は4,700円なので、本体とあわせて合計@<ttb>{18910円}でした。
 
  * @<href>{https://www.yodobashi.com/product/100000001004210495/}
 
@@ -65,7 +65,7 @@ PLANTRONICSのVoyager5200用充電ケース（204500-108）は4,700円なので�
 
 //footnote[saiwai][落ちたのは幸いにしてHD 800 S Anniversary Editionの前に使っていた、HD 595 Anniversary Editionだった。HD 800 Sじゃなくて本当に良かった！]
 
-Geekriaの壁掛けフック ヘッドホンホルダーは1,199円でした。
+Geekriaの壁掛けフック ヘッドホンホルダーは@<ttb>{1,199円}でした。
 
  * @<href>{https://www.amazon.co.jp/dp/B077JYHL4K}
 
@@ -76,7 +76,7 @@ Geekriaの壁掛けフック ヘッドホンホルダーは1,199円でした。
 //image[keyboard][金色に鈍く光るESCキー][scale=0.6]{
 //}
 
-FILCOキーボード工房のキーボード、Majestouch BLACK 漆/赤金砂子塗り 黒軸 フルサイズ かななし（KOBO-UAKS02-ML-NFB2【830】）は22,800円でした。
+FILCOキーボード工房のキーボード、Majestouch BLACK 漆/赤金砂子塗り 黒軸 フルサイズ かななし（KOBO-UAKS02-ML-NFB2【830】）は@<ttb>{22,800円}でした。
 
  * @<href>{https://www.diatec.co.jp/shop/kobo/ursakakin.php}
 
@@ -117,6 +117,6 @@ FILCOキーボード工房のキーボード、Majestouch BLACK 漆/赤金砂子
 
 Spotifyを操作するときと、パソコンをスリープさせるときに、専用ボタンが欲しかったのでCORSAIRのタッチスクリーンコントローラーを導入。USB Type-Aで繋がる。1日に何回も操作するようなものは、マウスよりも物理ボタンの方が楽。使わないときはCPUや温度などのリソース情報を表示させている。
 
-CORSAIRのタッチスクリーンコントローラー iCUE NEXUS Companion Touch Screen（CH-9910010-AP）は14,610円でした。
+CORSAIRのタッチスクリーンコントローラー iCUE NEXUS Companion Touch Screen（CH-9910010-AP）は@<ttb>{14,610円}でした。
 
  * @<href>{https://www.yodobashi.com/product/100000001005751987/}
