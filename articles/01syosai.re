@@ -97,7 +97,7 @@
 
  * @<href>{https://www.zojirushi.co.jp/syohin/humidifier/eerq/}
 
-ちなみに2021年に出た「EE-DC50」は、おしゃれなグレーでちょっとほっそりしている。同機能のまま、さらに大容量で4L。見た目も改善されているので、今から買うならこっちがおすすめ。
+ちなみに2021年に出た「EE-DC50」は、おしゃれなグレーでちょっとほっそりしている。同機能のまま、さらに大容量で4L。見た目も改善されているので、今から買うならこっちがお勧め。
 
  * @<href>{https://www.zojirushi.co.jp/syohin/life/humidifier/ee-dc/}
 
