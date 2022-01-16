@@ -314,9 +314,9 @@ ElgatoのFacecam（10WAA9900-JP）は@<ttb>{27,460円}でした。
 
 == USBコンデンサーマイク（上位モデル）
 
-同様に登壇の録画を観たら音質が思ってたほどよくなかったので、ついカッとなってBlueのYeti Xを購入。Yeti Nano@<fn>{yetiNano}に比べるとサイズが一回り大きい。Yeti nanoとYeti Xでそれぞれ録音して聞き比べてみたけど、確かに素人にも「Yeti nanoもよかったけど、こっちの方がさらに音がいい」と分かる。（@<img>{yetiX}）
+同様に登壇の録画を観たら音質が思ってたほどよくなかったので、ついカッとなってBlueのYeti Xを購入。Yeti Nano@<fn>{yetiNano}に比べるとサイズが一回り大きい。Yeti NanoとYeti Xでそれぞれ録音して聞き比べてみたけど、確かに素人にも「Yeti Nanoもよかったけど、こっちの方がさらに音がいい」と分かる。（@<img>{yetiX}）
 
-//footnote[yetiNano][Yeti Xの前は、Yeti nanoというマイクを使っていた。Yeti nanoについては、@<chapref>{07haishi}の「USBコンデンサーマイク（エントリーモデル）」を参照してください。]
+//footnote[yetiNano][Yeti Xの前は、Yeti Nanoというマイクを使っていた。Yeti Nanoについては、@<chapref>{07haishi}の「USBコンデンサーマイク（エントリーモデル）」を参照してください。]
 
 //image[yetiX][同じLogicoolのマイクスタンドとホルダーを使用][scale=0.6]{
 //}
