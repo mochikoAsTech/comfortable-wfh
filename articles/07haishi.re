@@ -46,9 +46,9 @@ ELECOMのノートPC用クーラー（静音・強冷タイプ） 12.1～14イ�
 
  * @<href>{https://www.yodobashi.com/product/100000001002631754/}
 
-== Stream Deck Mini
+=={streamdeck} Stream Deck Mini
 
-@<chapref>{04closet}で紹介したKey Lightと同時に、ElgatoのStream Deck Miniも購入。Stream Deck Miniには6つの物理ボタンが付いていて、それぞれのボタンに「Key Lightの電源を入れる」とか「明るさを調整する」とかのアクションを設定しておくことで、Key Lightを簡単に操作できる…はずだった。だが相性なのか、どうしてもMacBookでStream Deck Miniを認識しない。Windowsのパソコンを繋いだときは操作できるけど、Macだと操作できない、という片手落ちな状態だったので、ソフトウェアのアップデートを待つことにして現在はしまってある。（@<img>{streamDeckMini}）
+@<chapref>{04closet}の@<hd>{04closet|keylight}で紹介したKey Lightと同時に、ElgatoのStream Deck Miniも購入。Stream Deck Miniには6つの物理ボタンが付いていて、それぞれのボタンに「Key Lightの電源を入れる」とか「明るさを調整する」とかのアクションを設定しておくことで、Key Lightを簡単に操作できる…はずだった。だが相性なのか、どうしてもMacBookでStream Deck Miniを認識しない。Windowsのパソコンを繋いだときは操作できるけど、Macだと操作できない、という片手落ちな状態だったので、ソフトウェアのアップデートを待つことにして現在はしまってある。（@<img>{streamDeckMini}）
 
 //image[streamDeckMini][便利な物理ボタンとして活躍するはずだったStream Deck Mini][scale=0.4]{
 //}
