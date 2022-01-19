@@ -64,3 +64,5 @@ mochikoAsTech
 
  * Shoco Sato
  * 西村遼
+ * Misaki Okajima
+ * Hiroki Zenigami
